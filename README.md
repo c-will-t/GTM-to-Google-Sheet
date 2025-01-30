@@ -64,7 +64,7 @@ Stores the following information about variables:
 
 ![image](https://github.com/user-attachments/assets/ed31affe-01bb-423d-b6fb-6c4f842c99e9)
 
-- This will open a new Apps Script project. In the _Code.gs_ file, remove any existing code and paste the entire script found here (ADD SCRIPT LINK)
+- This will open a new Apps Script project. In the _Code.gs_ file, remove any existing code and paste the entire script found here https://github.com/c-will-t/GTM-to-Google-Sheet/blob/main/GTM-to-Google-Sheet.js
 
 ![image](https://github.com/user-attachments/assets/7ff82814-a3cd-4265-81c6-3e586846f2c6)
 
